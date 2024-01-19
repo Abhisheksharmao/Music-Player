@@ -1,0 +1,43 @@
+
+.album {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.lbum:hover {
+    opacity: 0.5;
+}
+
+.playbtn {
+    margin-left: 25%;
+    display: flex;
+    align-items: center;
+}
+
+.playbtn button {
+    background: transparent;
+    border: 0;
+}
+
+
+.wrp {
+    display: flex;
+}
+
+.wrp1 {
+    width: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.wrp1 h3 {
+    margin-left: 20px;
+}
+
+.raw {
+    height: 500px;
+    overflow: auto;
+}
