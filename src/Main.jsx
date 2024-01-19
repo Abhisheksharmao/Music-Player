@@ -204,8 +204,7 @@ export default function Main() {
                     <button style={{ background: "transparent", border: "0" }}><img src={right} width="30px" alt="" /></button>
                 </div>
                 <div className='top2'>
-                    <button className='btn1'>Signup</button>
-                    <button className='btn2'>Login</button>
+                    <input type="search" name="" id="" placeholder='Search for music.....' />
                 </div>
             </div>
 

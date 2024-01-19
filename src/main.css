@@ -14,11 +14,12 @@
     border-radius: 10px 10px 0 0;
 }
 
-.top2 .btn2 {
-    width: 120px;
-    padding: 10px;
-    border-radius: 30px;
-    font-size: 20px;
+.top2 input {
+    width: 500px;
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 17px;
+    outline: 0;
 
 }
 
